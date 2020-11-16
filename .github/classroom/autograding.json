@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Contains explanation",
+      "setup": "",
+      "run": "python hello.py",
+      "input": "",
+      "output": "Hello World!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
